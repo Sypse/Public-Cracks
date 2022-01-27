@@ -230,7 +230,6 @@ GodModes:addToggle("Rainbow Hair Godmode", nil, function(a)
 		game:GetService("Players").LocalPlayer.Backpack.HairScript.RemoteEvent:FireServer(game:GetService("Players").LocalPlayer.PlayerGui.Setup.Frame.Side.Skin, "up")
 		game:GetService("Players").LocalPlayer.Backpack.HairScript.RemoteEvent:FireServer(game:GetService("Players").LocalPlayer.PlayerGui.Setup.Frame.Side.Hair, "up")
 	end)
-else
 end)
 GodModes:addToggle("Earth Godmode", nil, function(a)
 	if a == true then
