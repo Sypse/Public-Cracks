@@ -19,37 +19,6 @@ do
         setreadonly(mt, true)
     end;
     
-    Move1 = "Deadly Dance"
-    Move2 = "Anger Rush"
-    Move3 = "Neo Wolf Fang Fist"
-    Move4 = "Wolf Fang Fist"
-    Move5 = "Meteor Crash"
-    Move6 = "TS Molotov"
-    Move7 = "God Slicer"
-    Move8 = ""
-    Move9 = ""
-    Move10 = ""
-    Move11 = ""
-    Move12 = ""
-    Move13 = ""
-    Move14 = ""
-    Move15 = ""
-    
-    --- Skidded Settings
-    ChargeTime = 3.5
-    FormType = "h"
-    Autostats = "Melee Damage"
-    ShowHealth = "Percent"
-    TeamDamage = false
-    GrabTimeCheck = 2333
-    RejoinTime = 500
-    Invisibility = true
-    ExpFreeze = true
-    BadPC = false
-    AntiLeech = false
-    DragonCrush = true
-    AutoPunch = true
-    Earth = false
     if not game:IsLoaded() then
         game.Loaded:wait();
     end;
