@@ -3,11 +3,8 @@ Fixed By Sypse, Sys/Chris 1/27/2022
 Ok, first things first. 
 This is skidded from kraken, in mid 2021
 deobfuscated & decompiled with allah's power
-yes the script crashes on execute 70% of the time but that isnt my problem: fuck u 
+yes the script crashes on execute 70% of the time but that isnt my problem
 We're releasing this because, snowy/unfair said HE made it (heavily skidded from kraken hub)
-to unfair: lol get gud kid
-suck my dick ~ Chris
-fuck you for the things you did in the past ;).
 ]]
 
 do
