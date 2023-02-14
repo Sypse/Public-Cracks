@@ -13,7 +13,7 @@ local oldnidx = mt.__newindex;
 setreadonly(mt, false);
 mt.__newindex = newcclosure(function(self, k, v)
     if (k == 'Text' and string.find(v, "Snowy Hub") ) then
-            v = "Snowy Skid Hub :) ~ Chris\nfuck u u dirtni nigaer ~ Sypse"
+            v = "Snowy Skid Hub :) ~ Chris"
         end;
         return oldnidx(self, k, v)
     end);
